@@ -1,3 +1,3 @@
 # c program 
 # enjoy c program
-# printf("shreyansh Barmeda");
+# printf("shreyansh and Naman Barmeda");
